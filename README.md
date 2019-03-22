@@ -5,4 +5,4 @@ This was created to quickly work on SRQ0058220
 
 # Following is still needed
 - Error checking
-- Workarounds. 
+- Workarounds for any errors
