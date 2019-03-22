@@ -1,7 +1,7 @@
 # User-Creation
 
 Quick script to add admin users to Ubuntu and Redhat instances
-This was created to quickly work on SRQ0058220
+This was created to quickly work on a case
 
 # Following is still needed
 - Error checking
